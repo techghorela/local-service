@@ -1,0 +1,6 @@
+{
+  "name": "Local Service Hub",
+  "description": "Hyper-local home service platform for Hisar district covering Hisar-1, Hisar-2, Barwala, Adampur, Narnaund, and Uklana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
